@@ -60,8 +60,10 @@
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
   },
+  "engines": {
+    "node": "8.5.0",
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/appi-rest-ingenieriaweb.git"
+    "url": "https://github.com/JuanCarlosCalle/ingenieriaWeb-master.git"
   }
 }
