@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "startServer": "node ./server/server.js",
-    "startDataBase": "mongod --dbpath /data/db/",
-    "start": "npm start"
+    "start": "node ./server/server.js",
+    "startDataBase": "mongod --dbpath /data/db/"
   },
   "author": "",
   "license": "ISC",
