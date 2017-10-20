@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    //"start": "ng build",
-    "start": "node ./server/server.js",
+    "start": "ng build",
+    "startServer": "node ./server/server.js",
     "startDataBase": "mongod --dbpath /data/db/",
     "postinstall": "ng build"
   },
