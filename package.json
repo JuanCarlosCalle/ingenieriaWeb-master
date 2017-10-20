@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "startServer": "node ./server/server.js",
     "startDataBase": "mongod --dbpath /data/db/",
-    "postinstall": "ng build"
+    
   },
   "author": "",
   "license": "ISC",
