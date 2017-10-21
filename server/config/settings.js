@@ -1,4 +1,4 @@
 module.exports = {
   'secret': 'ingWeb',
-  'database': 'mongodb://heroku_wp7j4h3l:gk960lhp9ngb949qljsv386loe@ds035806.mlab.com:35806/heroku_wp7j4h3l'
+  'database': 'mongodb://heroku_t3hnnk3m:4h259mnejrjuuhmfgtvrm3jlpu@ds127105.mlab.com:27105/heroku_t3hnnk3m'
 };
