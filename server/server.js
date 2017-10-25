@@ -1,5 +1,5 @@
 let express = require('express');
-const distDir = __dirname + "\\dist\\";
+const distDir = __dirname + "/dist/";
 
 
 let app = express();
