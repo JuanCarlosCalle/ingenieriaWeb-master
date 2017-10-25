@@ -10,7 +10,7 @@ app.use(express.static(distDir));
 
 app.get("/",(req,res)=>{
 
-    return res.sendFile("./dist/index.html")
+    return res.sendFile(__dirname+"/dist/index.html")
 })
 
 app.listen(app.get('port'), () => {
