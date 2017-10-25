@@ -9,6 +9,10 @@
     "startDataBase": "mongod --dbpath /data/db/",
     "postinstall": "ng build"
   },
+
+  "engines": {
+    "node": "6.11.1"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
