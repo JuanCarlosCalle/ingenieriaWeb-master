@@ -12,7 +12,7 @@ app.use(express.static(distDir));
 
 app.get("/",(req,res)=>{
 
-    return res.sendFile("index.html")
+    return res.sendFile("./dist/index.html")
 })
 
 // Rest of server.js code below
