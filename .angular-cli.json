@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "./server/client/src",
-      "outDir": "./server/dist",
+      "outDir": "./dist",
       "assets": [
         "assets",
         "favicon.ico"
@@ -20,8 +20,8 @@
       "prefix": "app",
       "styles": [
         "styles.scss",
-        "../node_modules/font-awesome/scss/font-awesome.scss",
-        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+        "../../../node_modules/font-awesome/scss/font-awesome.scss",
+        "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
