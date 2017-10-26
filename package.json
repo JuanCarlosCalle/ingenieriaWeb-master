@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Carrito de compras",
+  "description": "",
   "main": "./server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -57,13 +57,5 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.3.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JuanCarlosCalle/ingenieriaWeb-master.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JuanCarlosCalle/ingenieriaWeb-master/issues"
-  },
-  "homepage": "https://github.com/JuanCarlosCalle/ingenieriaWeb-master#readme"
+  }
 }
